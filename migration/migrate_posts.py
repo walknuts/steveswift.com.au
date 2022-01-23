@@ -35,7 +35,6 @@ for post in d["entries"]:
     post_path = Path("../_posts") / jekyll_post_name(post)
     post_path.write_text(f"""---
 title: "{title}"
-tags: {tags}
 ---
 
 {body}""")
