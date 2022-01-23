@@ -23,7 +23,7 @@ def post_body_as_md(post):
         ic(post)
         raise ValueError(f"Multiple content fields for {post['title']}")
 
-    markdownify(post["content"][0]["value"])
+    return markdownify(post["content"][0]["value"])
 
 for post in d["entries"]:
 
