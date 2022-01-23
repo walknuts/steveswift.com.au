@@ -11,6 +11,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://steveswift.com.au/" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 
+linkedin_username: steve-swift-41ab5a42
+
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
