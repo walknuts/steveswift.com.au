@@ -8,7 +8,8 @@ author:
 ---
 
 ## Steve Swift PSM
-### Director and Chief Consultant
+
+_Director and Chief Consultant_
 
 ![Steve Swift headshot]({% link assets/images/steve-swift-headshot.jpg %})
 
@@ -64,7 +65,8 @@ Aeronautical Fatigue and Structural Integrity (ICAF):
 ![Plantema Medal]({% link assets/images/plantema-medal.jpg %})
 
 ## Kathy Swift RN
-### Business Manager and Registered Nurse
+
+_Business Manager and Registered Nurse_
 
 ![Kathy Swift headshot]({% link assets/images/kathy-swift-headshot.jpg %})
 
