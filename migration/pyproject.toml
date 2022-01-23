@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "steveswift-wordpress-migration"
+version = "0.1.0"
+description = ""
+authors = ["Ben Swift <ben@benswift.me>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+feedparser = "^6.0.8"
+markdownify = "^0.10.2"
+
+[tool.poetry.dev-dependencies]
+icecream = "^2.1.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
