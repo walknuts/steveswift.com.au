@@ -27,15 +27,13 @@ def post_body_as_md(post):
 
 for post in d["entries"]:
 
-    post_path = Path("../_posts")
-    filename = jekyll_post_name(post)
     title = post["title"]
     tags = post["tags"]
     date = jekyll_post_date(post)
     body = post_body_as_md(post)
 
-    with open(post_path / filename, mode='w') as f:
-        f.write_text(f"""---
+    post_path = Path("../_posts") / jekyll_post_name(post)
+    post_path.write_text(f"""---
 title: "{title}"
 tags: {tags}
 ---
