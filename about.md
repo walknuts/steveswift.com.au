@@ -11,7 +11,7 @@ author:
 
 _Director and Chief Consultant_
 
-![Steve Swift headshot]({% link assets/images/steve-swift-headshot.jpg %})
+![Steve Swift headshot]({{site.baseurl}}/{% link assets/images/steve-swift-headshot.jpg %})
 
 > "Steve is one of the most dedicated and, in my opinion, competent persons in
 > the aircraft community"
@@ -31,7 +31,7 @@ To learn more about Steve and his work, please see his:
 
 ### Frank Whittle Medal
 
-![Frank Whittle Medal]({% link assets/images/frank-whittle-medal.png %})
+![Frank Whittle Medal]({{site.baseurl}}/{% link assets/images/frank-whittle-medal.png %})
 
 In 2007, Steve received the Whittle Safety Award from the International
 Federation of Airworthiness:
@@ -49,7 +49,7 @@ In 2008, Steve received a Public Service Medal from the Australian Government:
 
 The Public Service Medal is the reason for Steve's post-nominal, 'PSM'.
 
-![Public Service Medal]({% link assets/images/public-service-medal.png %})
+![Public Service Medal]({{site.baseurl}}/{% link assets/images/public-service-medal.png %})
 
 ### ICAF Plantima Medal
 
@@ -62,13 +62,13 @@ Aeronautical Fatigue and Structural Integrity (ICAF):
 > who is invited to deliver a keynote lecture at the start of the biennial
 > symposium.
 
-![Plantema Medal]({% link assets/images/plantema-medal.jpg %})
+![Plantema Medal]({{site.baseurl}}/{% link assets/images/plantema-medal.jpg %})
 
 ## Kathy Swift RN
 
 _Business Manager and Registered Nurse_
 
-![Kathy Swift headshot]({% link assets/images/kathy-swift-headshot.jpg %})
+![Kathy Swift headshot]({{site.baseurl}}/{% link assets/images/kathy-swift-headshot.jpg %})
 
 Kathy started her career as a nurse, and then managed a large travel health
 clinic. As Business Manager, she helps Steve concentrate on his engineering.

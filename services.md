@@ -12,7 +12,7 @@ I offer the following services:
 
 The airworthiness of the airframe:
 
-![Van's RV-14 cutaway showing its airframe (VansAircraft – Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52482169)]({% link assets/images/vans-RV-14-cutaway.jpg %})
+![Van's RV-14 cutaway showing its airframe (VansAircraft – Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52482169)]({{site.baseurl}}/{% link assets/images/vans-RV-14-cutaway.jpg %})
 
 The 'airframe' is the aircraft's skeleton. It's 'airworthiness' is about
 ensuring it is always strong enough and stiff enough for the aircraft to do
