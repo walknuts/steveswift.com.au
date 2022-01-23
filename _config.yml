@@ -16,3 +16,6 @@ linkedin_username: steve-swift-41ab5a42
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+
+exclude:
+  - migration/
