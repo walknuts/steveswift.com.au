@@ -16,10 +16,14 @@ _Director and Chief Consultant_
 > "Steve is one of the most dedicated and, in my opinion, competent persons in
 > the aircraft community"
 >
-> _Professor David Hoeppner, University of Utah_
+> _Professor [David
+> Hoeppner](https://faculty.utah.edu/u0029894-DAVID_W_HOEPPNER,_P.E.,_Ph.D./hm/index.hml;jsessionid=889A459AA26231E5234BCF0D2DCC5D45),
+> University of Utah_
 
 Steve is an aeronautical engineer with more than 40 years in the aviation
-business, in Australia and around the world.
+business, in Australia and around the world. Steve left
+[CASA](https://www.casa.gov.au) in 2010 to start his own airworthiness business,
+Steve Swift Pty Ltd, an Australian-registered company.
 
 To learn more about Steve and his work, please see his:
 
@@ -27,9 +31,9 @@ To learn more about Steve and his work, please see his:
 - awards (below)
 - papers
 
-## Steve's Awards {#awards}
+### Steve's Awards {#awards}
 
-### Frank Whittle Medal
+#### Frank Whittle Medal
 
 ![Frank Whittle Medal]({{site.baseurl}}/{% link assets/images/frank-whittle-medal.png %})
 
@@ -40,7 +44,9 @@ Federation of Airworthiness:
 > demystifies the theory of structural inspection, helping designers, operators
 > and regulators cooperate to keep aircraft safe from cracks and corrosion.
 
-### Australian Public Service Medal
+#### Australian Public Service Medal
+
+![Public Service Medal]({{site.baseurl}}/{% link assets/images/public-service-medal.png %})
 
 In 2008, Steve received a Public Service Medal from the Australian Government:
 
@@ -49,9 +55,9 @@ In 2008, Steve received a Public Service Medal from the Australian Government:
 
 The Public Service Medal is the reason for Steve's post-nominal, 'PSM'.
 
-![Public Service Medal]({{site.baseurl}}/{% link assets/images/public-service-medal.png %})
+#### ICAF Plantima Medal
 
-### ICAF Plantima Medal
+![Plantema Medal]({{site.baseurl}}/{% link assets/images/plantema-medal.jpg %})
 
 In 2019, Steve received the Plantema Medal from the International Committee on
 Aeronautical Fatigue and Structural Integrity (ICAF):
@@ -61,8 +67,6 @@ Aeronautical Fatigue and Structural Integrity (ICAF):
 > presented to a selected leading member of the structural integrity community,
 > who is invited to deliver a keynote lecture at the start of the biennial
 > symposium.
-
-![Plantema Medal]({{site.baseurl}}/{% link assets/images/plantema-medal.jpg %})
 
 ## Kathy Swift RN
 
@@ -75,14 +79,3 @@ clinic. As Business Manager, she helps Steve concentrate on his engineering.
 
 To learn more about Kathy, please see her [Profile on
 LinkedIn](https://www.linkedin.com/in/kathryn-swift-038027aa).
-
-## The Business
-
-Steve left CASA in 2010 to start his own airworthiness business, Steve Swift Pty
-Ltd, an Australian-registered company.
-
-Clients have included designers, lawyers, maintainers, militaries, operators,
-regulators and universities. They have come from all corners of the globe.
-
-The business is based in Canberra, in the Australian Capital Territory,
-Australia. We are ready to serve you wherever you are in the world!
