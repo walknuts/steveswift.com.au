@@ -19,3 +19,11 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 exclude:
   - migration/
+
+# frontmatter defaults
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
