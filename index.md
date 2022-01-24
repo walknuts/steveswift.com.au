@@ -7,8 +7,8 @@ introduction: |
   business, in Australia and around the world.
 
   Steve Swift Pty Ltd offers **consulting**, **training** and **expert witness**
-  services. Clients have included designers, lawyers, maintainers, militaries,
-  operators, regulators and universities from all corners of the globe.
+  services. Our clients include designers, lawyers, maintainers, militaries,
+  operators, regulators and universities from all over the world.
 
   We are based in Canberra, in the Australian Capital Territory, Australia. We are
   ready to serve you wherever you are in the world!
