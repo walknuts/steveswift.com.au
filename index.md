@@ -1,5 +1,6 @@
 ---
 layout: home
+image: assets/images/plane-in-sky-leio-mclaren-FwdZYz0yc9g-unsplash.jpg
 sub_title: "Award-winning airworthiness consulting, training and expert witness services"
 introduction: |
   Steve is an aeronautical engineer with more than 40 years in the aviation

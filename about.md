@@ -1,5 +1,6 @@
 ---
 layout: page
+image: assets/images/view-from-arboretum-maxwell-ingham-Zu85Otu4qmo-unsplash.jpg
 title: About
 permalink: /about/
 author:
