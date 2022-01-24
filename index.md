@@ -36,7 +36,7 @@ introduction: |
 actions:
   - label: "Contact us"
     icon: email
-    url: "mailto:{{site.email}}"
+    url: "mailto:steve@steveswift.com.au"
   - label: "Reports & Presentations"
     icon: pdf
     url: "https://gumroad.com"
