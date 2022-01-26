@@ -1,6 +1,6 @@
 ---
 layout: page
-image: assets/images/view-from-arboretum-maxwell-ingham-Zu85Otu4qmo-unsplash.jpg
+image: assets/images/johan-van-wambeke-_2VioFUgQVg-unsplash.jpg
 title: About
 permalink: /about/
 author:
