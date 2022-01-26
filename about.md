@@ -78,6 +78,8 @@ Integrity (ICAF):
 > who is invited to deliver a keynote lecture at the start of the biennial
 > symposium.
 
+---
+
 ## Kathy Swift RN
 
 ![Kathy Swift headshot]({{site.baseurl}}/{% link assets/images/kathy-swift-headshot.jpg %}){:.align-right}
