@@ -28,7 +28,7 @@ Rose](https://github.com/mmistakes/jekyll-theme-basically-basic).
      the `image` key contains the correct (full) path, e.g. `image: assets/images/my-image.jpg`
 
 - to add a new "news item", create a new file in the
-  [`__posts`](https://github.com/walknuts/steveswift.com.au/tree/master/_posts)
+  [`_posts`](https://github.com/walknuts/steveswift.com.au/tree/master/_posts)
   folder (follow the naming convention of the other files in there), then use
   starting content something like this:
 
