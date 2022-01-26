@@ -8,10 +8,9 @@ introduction: |
 
   Steve Swift Pty Ltd offers **consulting**, **training** and **expert witness**
   services. Our clients include designers, lawyers, maintainers, militaries,
-  operators, regulators and universities from all over the world.
-
-  We are based in Canberra, in the Australian Capital Territory, Australia. We are
-  ready to serve you wherever you are in the world!
+  operators, regulators and universities from all over the world. We are based in 
+  Canberra, in the Australian Capital Territory, Australia. We are ready 
+  to serve you wherever you are in the world!
 
   We have **specialised expertise** in airworthiness at all stages in the life of an
   aircraft, including:
