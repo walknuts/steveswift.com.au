@@ -14,6 +14,11 @@ future: true
 copyright: "© 2022 Steve Swift Pty Ltd"
 # logo: assets/images/logo.png
 
+# metadata for news items - can be overridden as necessary
+author:
+  name: Steve Swift
+  picture: /assets/images/steve-swift-headshot.jpg
+
 linkedin_username: steve-swift-41ab5a42
 
 # Build settings
