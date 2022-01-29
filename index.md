@@ -3,8 +3,8 @@ layout: home
 image: assets/images/leio-mclaren-FwdZYz0yc9g-unsplash.jpg
 sub_title: "Award-winning airworthiness consulting, training and expert witness services"
 introduction: |
-  [Steve]({% link about.md %}) is an aeronautical engineer with more than 40
-  years in the aviation business, in Australia and around the world.
+  Steve is an aeronautical engineer with more than 40 years in the aviation 
+  business, in Australia and around the world.
 
   Steve Swift Pty Ltd offers **consulting**, **training** and **expert witness**
   services. Our clients include designers, lawyers, maintainers, militaries,
