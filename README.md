@@ -13,10 +13,9 @@ Rose](https://github.com/mmistakes/jekyll-theme-basically-basic).
   1. upload an image file (e.g. `my-image.jpg`) to the
      [`assets/images/`](https://github.com/walknuts/steveswift.com.au/tree/master/assets/images)
      folder, then
-  2. insert `![alt-text goes here]({{site.baseurl}}/{% link
-  assets/images/my-image.jpg %})` into the place where you want the image to
-  show up (replacing the `alt-text goes here` and `my-image.jpg` parts as
-  appropriate)
+  2. insert `![alt-text goes here]({% link assets/images/my-image.jpg %})` into
+     the place where you want the image to show up (replacing the `alt-text goes
+     here` and `my-image.jpg` parts as appropriate)
 
 - to change the [hero
   image](https://mmistakes.github.io/jekyll-theme-basically-basic/layout/layout-hero-image/)

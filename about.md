@@ -20,7 +20,7 @@ author:
 
 ## Steve Swift PSM
 
-![Steve Swift headshot]({{site.baseurl}}/{% link assets/images/steve-swift-headshot.jpg %}){:.align-right}
+![Steve Swift headshot]({% link assets/images/steve-swift-headshot.jpg %}){:.align-right}
 
 _Director and Chief Consultant_
 
@@ -42,7 +42,7 @@ Steve Swift Pty Ltd, an Australian-registered company.
 
 #### Frank Whittle Medal
 
-![Frank Whittle Medal]({{site.baseurl}}/{% link assets/images/frank-whittle-medal.png %}){:.align-right}
+![Frank Whittle Medal]({% link assets/images/frank-whittle-medal.png %}){:.align-right}
 
 In 2007, Steve received the Whittle Safety Award from the International
 Federation of Airworthiness:
@@ -53,7 +53,7 @@ Federation of Airworthiness:
 
 #### Australian Public Service Medal
 
-![Public Service Medal]({{site.baseurl}}/{% link assets/images/public-service-medal.png %}){:.align-right}
+![Public Service Medal]({% link assets/images/public-service-medal.png %}){:.align-right}
 
 In 2008, Steve received a [Public Service
 Medal](https://www.pmc.gov.au/government/its-honour/public-service-medal) from
@@ -66,7 +66,7 @@ The Public Service Medal is the reason for Steve's post-nominal 'PSM'.
 
 #### ICAF Plantema Medal
 
-![Plantema Medal]({{site.baseurl}}/{% link assets/images/plantema-medal.jpg %}){:.align-right}
+![Plantema Medal]({% link assets/images/plantema-medal.jpg %}){:.align-right}
 
 In 2019, Steve received the [Plantema Medal](https://www.icaf.aero/awards.php)
 from the International Committee on Aeronautical Fatigue and Structural
@@ -82,7 +82,7 @@ Integrity (ICAF):
 
 ## Kathy Swift RN
 
-![Kathy Swift headshot]({{site.baseurl}}/{% link assets/images/kathy-swift-headshot.jpg %}){:.align-right}
+![Kathy Swift headshot]({% link assets/images/kathy-swift-headshot.jpg %}){:.align-right}
 
 _Business Manager and Registered Nurse_
 
