@@ -7,8 +7,8 @@ title: Steve Swift Pty Ltd
 email: steve@steveswift.com.au
 description: >-
   Award-winning airworthiness consulting, training and expert witness services
-baseurl: "/steveswift.com.au"
-url: "https://walknuts.github.io"
+baseurl: ""
+url: "https://steveswift.com.au"
 permalink: pretty
 future: true
 copyright: "© 2022 Steve Swift Pty Ltd"
