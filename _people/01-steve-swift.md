@@ -19,11 +19,15 @@ Steve Swift Pty Ltd, an Australian-registered company.
 > Hoeppner](https://faculty.utah.edu/u0029894-DAVID_W_HOEPPNER,_P.E.,_Ph.D./hm/index.hml;jsessionid=889A459AA26231E5234BCF0D2DCC5D45),
 > University of Utah_
 
+Connect with Steve on {% include icon-linkedin.html username="steve-swift-41ab5a42" label="LinkedIn" %}
+
 ## Steve's Awards {#awards}
 
-### Frank Whittle Medal
+---
 
 ![Frank Whittle Medal]({% link assets/images/frank-whittle-medal.png %}){:.align-right}
+
+### Frank Whittle Medal
 
 In 2007, Steve received the Whittle Safety Award from the International
 Federation of Airworthiness:
@@ -32,9 +36,11 @@ Federation of Airworthiness:
 > demystifies the theory of structural inspection, helping designers, operators
 > and regulators cooperate to keep aircraft safe from cracks and corrosion.
 
-### Australian Public Service Medal
+---
 
 ![Public Service Medal]({% link assets/images/public-service-medal.png %}){:.align-right}
+
+### Australian Public Service Medal
 
 In 2008, Steve received a [Public Service
 Medal](https://www.pmc.gov.au/government/its-honour/public-service-medal) from
@@ -45,9 +51,11 @@ the Australian Government:
 
 The Public Service Medal is the reason for Steve's post-nominal 'PSM'.
 
-### ICAF Plantema Medal
+---
 
 ![Plantema Medal]({% link assets/images/plantema-medal.jpg %}){:.align-right}
+
+### ICAF Plantema Medal
 
 In 2019, Steve received the [Plantema Medal](https://www.icaf.aero/awards.php)
 from the International Committee on Aeronautical Fatigue and Structural
@@ -59,4 +67,12 @@ Integrity (ICAF):
 > who is invited to deliver a keynote lecture at the start of the biennial
 > symposium.
 
-Connect with Steve on {% include icon-linkedin.html username="steve-swift-41ab5a42" label="LinkedIn" %}
+<style>
+/* keep the images half-width on large screens */
+@media screen and (min-width: 768px) {
+  .entry-content img {
+    width: 50%;
+    padding-left: 1rem;
+  }
+}
+</style>
