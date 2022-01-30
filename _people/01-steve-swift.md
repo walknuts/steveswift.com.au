@@ -1,30 +1,11 @@
 ---
-layout: page
-image: assets/images/johan-van-wambeke-_2VioFUgQVg-unsplash.jpg
-title: About
-permalink: /about/
-author:
-  name: Steve Swift
-  picture: /assets/images/steve-swift-headshot.jpg
+title: Steve Swift PSM
+sub_title: Director and Chief Consultant
+image:
+  path: assets/images/steve-swift-headshot.jpg
+  thumbnail: assets/images/steve-swift-headshot.jpg
+permalink: /people/steve-swift/
 ---
-
-<style>
-/* keep the images half-width on large screens */
-@media screen and (min-width: 768px) {
-  .entry-content img {
-    width: 50%;
-    padding-left: 1rem;
-  }
-}
-</style>
-
-## Steve Swift PSM
-
-![Steve Swift headshot]({% link assets/images/steve-swift-headshot.jpg %}){:.align-right}
-
-_Director and Chief Consultant_
-
-{% include icon-linkedin.html username="steve-swift-41ab5a42" label="Steve Swift" %}
 
 Steve is an aeronautical engineer with more than 40 years in the aviation
 business, in Australia and around the world. Steve left
@@ -38,9 +19,9 @@ Steve Swift Pty Ltd, an Australian-registered company.
 > Hoeppner](https://faculty.utah.edu/u0029894-DAVID_W_HOEPPNER,_P.E.,_Ph.D./hm/index.hml;jsessionid=889A459AA26231E5234BCF0D2DCC5D45),
 > University of Utah_
 
-### Steve's Awards {#awards}
+## Steve's Awards {#awards}
 
-#### Frank Whittle Medal
+### Frank Whittle Medal
 
 ![Frank Whittle Medal]({% link assets/images/frank-whittle-medal.png %}){:.align-right}
 
@@ -51,7 +32,7 @@ Federation of Airworthiness:
 > demystifies the theory of structural inspection, helping designers, operators
 > and regulators cooperate to keep aircraft safe from cracks and corrosion.
 
-#### Australian Public Service Medal
+### Australian Public Service Medal
 
 ![Public Service Medal]({% link assets/images/public-service-medal.png %}){:.align-right}
 
@@ -64,7 +45,7 @@ the Australian Government:
 
 The Public Service Medal is the reason for Steve's post-nominal 'PSM'.
 
-#### ICAF Plantema Medal
+### ICAF Plantema Medal
 
 ![Plantema Medal]({% link assets/images/plantema-medal.jpg %}){:.align-right}
 
@@ -78,15 +59,4 @@ Integrity (ICAF):
 > who is invited to deliver a keynote lecture at the start of the biennial
 > symposium.
 
----
-
-## Kathy Swift RN
-
-![Kathy Swift headshot]({% link assets/images/kathy-swift-headshot.jpg %}){:.align-right}
-
-_Business Manager and Registered Nurse_
-
-{% include icon-linkedin.html username="kathryn-swift-038027aa" label="Kathy Swift" %}
-
-Kathy started her career as a nurse, and then managed a large travel health
-clinic. As Business Manager, she helps Steve concentrate on his engineering.
+Connect with Steve on {% include icon-linkedin.html username="steve-swift-41ab5a42" label="LinkedIn" %}

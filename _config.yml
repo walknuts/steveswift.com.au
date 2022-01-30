@@ -35,3 +35,12 @@ defaults:
       type: posts
     values:
       layout: post
+  - scope:
+      path: "_people"
+    values:
+      layout: post
+
+collections:
+  people:
+    output: true
+    permalink: /:collection/:path/
