@@ -7,7 +7,7 @@ image:
 permalink: /people/ben-swift/
 ---
 
-Ben is an expert in turning data into insight using the latest tecniques from
+Ben is an expert in turning data into insight using the latest techniques from
 data science and machine learning. With a PhD in Computer Science from the
 Australian National University, Ben has 15 years experience as a software
 engineer, data analyst, researcher and educator.
