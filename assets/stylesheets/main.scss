@@ -9,4 +9,3 @@ $base-font-family: "Lora", sans-serif;
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
-
