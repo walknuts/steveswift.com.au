@@ -7,6 +7,8 @@ image: assets/images/johan-van-wambeke-_2VioFUgQVg-unsplash.jpg
 
 Airworthiness gems for the price of a coffee.
 
+Thanks for your patience while this page loads ... 
+
 {% assign pubs = site.data.gumroad %}
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 
