@@ -1,23 +1,20 @@
 ---
 title: Publications
 permalink: /publications/
-image: assets/images/johan-van-wambeke-_2VioFUgQVg-unsplash.jpg
+image: assets/images/jerry-zhang-BvuZn3FhEdU-unsplash.jpg
 ---
 
 Airworthiness gems for the price of a coffee.
 
+_This page may take a little while to load all the details... thanks for your patience._
+
 {% assign pubs = site.data.gumroad %}
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
 
 <div class="entries-grid">
   {%- for pub in pubs -%}
     <article class="entry">
-      <h3 class="entry-title">{{ pub.name }}</h3>
-      <a href="{{ pub.short_url }}">
-        <div style="overflow: hidden; padding-top: 75%; background: url({{pub.preview_url }}) no-repeat center; background-size: contain;"></div>
-      </a>
-      <div class="entry-excerpt">
-        {{ pub.description }}
-      </div>
+      <div class="gumroad-product-embed"><a href="{{ pub.short_url }}">Loading...</a></div>
     </article>
   {%- endfor -%}
 </div>
