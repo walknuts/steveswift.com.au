@@ -25,3 +25,5 @@ I first met Dr Hoeppner in 1987 when he taught me the FAA's short course on 'Air
 * ***Generous*** with his knowledge, time and money.
 
 We shared a love for the Lord. I will miss him until we meet again.
+
+![Dr David Hoeppner]({% link assets/images/IMG_0477.JPG %})
