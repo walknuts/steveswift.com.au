@@ -14,7 +14,7 @@ I first met Dr Hoeppner in 1987 when he taught me the FAA's short course on 'Air
 * **Family man**, who valued work but kept it in perspective 
 * **Encourager**, who brought out the best in people
 * **Caring**, especially when he hosted me at short notice after my accommodation plans fell through
-* **Empathetic**, like when he understood my disappointment and frustration after regulatory politics caused an authority to reject me 
+* **Empathetic**, when he understood my disappointment and frustration after regulatory politics caused an authority to reject me 
 * **Story teller** who brought lessons from history to life
 * **Courageous**, especially on matters of principle and justice 
 * **Diligent**, seizing every opportunity (‘carpe diem’ was his motto)
