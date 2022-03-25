@@ -8,19 +8,19 @@ Dr David Hoeppner passed away on Friday, 18 February 2022, aged 86. Aircraft str
 
 I first met Dr Hoeppner in 1987 when he taught me the FAA's short course on 'Aircraft Fatigue' at the University of Utah. It started a professional and personal friendship that lasted 35 years. I will fondly remember Dr Hoeppner as:
 
-* A **leader**, genuinely, as evidenced by many followers
+* A **leader**, genuinely, as evidenced by his many followers
 * A **mentor**, who imparted guiding principles for my career
-* **Ethical**, he knew ‘you can’t get structural integrity without human integrity’, a quote he loved, from Willis Hawkins 
+* **Ethical**, he knew ‘you can’t get structural integrity without human integrity’, a quote he loved from Lockheed's Willis Hawkins 
 * A **family man**, who valued work but kept it in perspective 
 * An **encourager**, who brought out the best in people
 * **Caring**, especially when he hosted me at short notice after my accommodation plans fell through
-* **Empathetic**, especially when he understood my disappointment and frustration after an authority rejected me because of politics
+* **Empathetic**, like when he understood my disappointment and frustration after regulatory politics caused an authority to reject me 
 * **A story teller** who brought lessons from history to life
 * **Courageous**, especially on matters of principle and justice 
 * **Diligent**, seizing every opportunity (‘carpe diem’ was his motto)
 * **Humble**, rare for an international expert
 * **Personal**, interested in you as a person and not just as an engineer
-* **Influencer**, his holistic concepts are increasingly promoted and practiced internationally
+* **Influencer**, his holistic concepts (HOLSIP) are increasingly promoted and practiced internationally
 * **Humorous**, he told a good joke and could also laugh at himself
 * **Generous** with his knowledge, time and money.
 
