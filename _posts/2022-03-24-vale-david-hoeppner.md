@@ -2,7 +2,7 @@
 title: "Vale Dr David Hoeppner"
 ---
 
-![Dr David Hoeppner]({% link assets/images/1647476192339.jpeg %})
+![Dr David Hoeppner]({% link assets/images/david-hoeppner.jpg %})
   
 Dr David Hoeppner passed away on Friday, 18 February 2022, aged 86. Aircraft structural integrity lost a pioneer. I lost a mentor and friend.
 
@@ -26,6 +26,6 @@ I first met Dr Hoeppner in 1987 when he taught me the FAA's short course on 'Air
 
 We shared a love for the Lord. I will miss Dr Hoeppner until we meet again.
 
-![Dr David Hoeppner]({% link assets/images/IMG_0477.JPG %})
+![Dr David Hoeppner]({% link assets/images/david-hoeppner-and-steve.jpg %})
 
 My deepest condolences to the Hoeppner family. 
