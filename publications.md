@@ -4,17 +4,17 @@ permalink: /publications/
 image: assets/images/jerry-zhang-BvuZn3FhEdU-unsplash.jpg
 ---
 
-Airworthiness gems for the price of a coffee.
-
-_This page may take a little while to load all the details... thanks for your patience._
+Airworthiness gems, freely available to all. [Send me an
+email](mailto:{{site.email}}) if you'd like a copy of any of these
+presentations.
 
 {% assign pubs = site.data.gumroad %}
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
 
-<div class="entries-grid">
+<div class="entries-list">
   {%- for pub in pubs -%}
     <article class="entry">
-      <div class="gumroad-product-embed"><a href="{{ pub.short_url }}">Loading...</a></div>
+    <img style="margin-bottom: 1em;" src="{{ pub.name | slugify | append: '.jpg' | prepend: '/assets/images/publications/' | prepend: site.baseurl }}">
+    {{ pub.description }}
     </article>
   {%- endfor -%}
 </div>
