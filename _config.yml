@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://steveswift.com.au"
 permalink: pretty
 future: true
-copyright: "© 2022 Steve Swift Pty Ltd"
+copyright: "© 2023 Steve Swift Pty Ltd"
 # logo: assets/images/logo.png
 
 # metadata for news items - can be overridden as necessary
