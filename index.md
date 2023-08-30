@@ -34,7 +34,7 @@ actions:
   - label: "Contact us"
     icon: email
     url: "mailto:steve@steveswift.com.au"
-  - label: "Publications"
+  - label: "Papers"
     icon: pdf
     url: "https://steveswift.gumroad.com"
 ---

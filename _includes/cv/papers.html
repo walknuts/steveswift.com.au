@@ -1,11 +1,11 @@
-{% if cv.publications %}
-  <div id="publications" class="entry">
+{% if cv.papers %}
+  <div id="papers" class="entry">
     <header class="entry-header">
-      <h3 class="entry-title">{{ site.data.theme.t.cv_publications | default: 'Publications' }}</h3>
+      <h3 class="entry-title">{{ site.data.theme.t.cv_papers | default: 'Papers' }}</h3>
     </header>
 
     <div class="entry-content">
-      {% for p in cv.publications %}
+      {% for p in cv.papers %}
         {% if p.name %}
           <h4 class="title">
             {% if p.website %}

@@ -1,6 +1,6 @@
 ---
-title: Publications
-permalink: /publications/
+title: Papers
+permalink: /papers/
 image: assets/images/jerry-zhang-BvuZn3FhEdU-unsplash.jpg
 ---
 
@@ -13,7 +13,7 @@ presentations.
 <div class="entries-list">
   {%- for pub in pubs -%}
     <article class="entry">
-    <img style="margin-bottom: 1em;" src="{{ pub.name | slugify | append: '.jpg' | prepend: '/assets/images/publications/' | prepend: site.baseurl }}">
+    <img style="margin-bottom: 1em;" src="{{ pub.name | slugify | append: '.jpg' | prepend: '/assets/images/papers/' | prepend: site.baseurl }}">
     {{ pub.description }}
     </article>
   {%- endfor -%}

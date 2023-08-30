@@ -33,7 +33,7 @@ t:
   cv_education_courses: "Courses"
   cv_interests: "Interests"
   cv_languages: "Languages"
-  cv_publications: "Publications"
+  cv_papers: "Papers"
   cv_references: "References"
   cv_skills: "Skills"
   cv_volunteer: "Volunteer"
@@ -50,4 +50,4 @@ google_fonts:
 
 navigation_pages:
   - people.md
-  - publications.md
+  - papers.md
