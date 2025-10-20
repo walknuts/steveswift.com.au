@@ -1,4 +1,4 @@
-# Steve Swift Pty Ltd Jekyll website
+# Steve Swift Jekyll website
 
 Jekyll source files for building the
 [steveswift.com.au](https://steveswift.com.au/) website.
@@ -33,7 +33,7 @@ Rose](https://github.com/mmistakes/jekyll-theme-basically-basic).
 
   ```md
   ---
-  title: "Onward and upward: exciting news from Steve Swift Pty. Ltd."
+  title: "Onward and upward: exciting news from Steve Swift."
   ---
 
   The text of the news item (and any images, subheadings, etc.) starts here.
