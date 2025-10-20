@@ -8,6 +8,6 @@ permalink: /people/kathy-swift/
 ---
 
 Kathy started her career as a nurse, and then managed a large travel health
-clinic. As Business Manager, she helps Steve concentrate on his engineering. As Quality Manager, she vets Steve's papers, presentations and training courses. She often accompanies Steve on his training courses for feedback.
+clinic. She helps Steve manage quality by vetting his papers, presentations and training courses. She often accompanies Steve on his training courses for feedback.
 
 Connect with Kathy on {% include icon-linkedin.html username="kathryn-swift-038027aa" label="LinkedIn" %}
