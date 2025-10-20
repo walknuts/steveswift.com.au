@@ -9,8 +9,7 @@ permalink: /people/steve-swift/
 
 Steve is an aeronautical engineer with more than 40 years in the aviation
 business, in Australia and around the world. Steve left
-[CASA](https://www.casa.gov.au) in 2010 to start his own airworthiness business,
-Steve Swift Pty Ltd, an Australian-registered company.
+[CASA](https://www.casa.gov.au) in 2010 to start his own airworthiness business.
 
 > "Steve is one of the most dedicated and, in my opinion, competent persons in
 > the aircraft community"
